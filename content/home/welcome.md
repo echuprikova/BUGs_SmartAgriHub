@@ -20,4 +20,4 @@ design:
 
 <br>
 
-We present a digital strategy approach using advanced hardware and software technologies to map the presence of diseases in three different experiments: apple orchard, vineyard, and forestry.  We aim at a non-invasive method to monitor plant diseases and deliver the information to farmers using web-based precision   maps   derived   from   machine   learning   algorithms   based   on   ground   and   aerial   infrared   spectroscopy (hyperspectral/thermal).
+We aim at a non-invasive method to monitor plant diseases and deliver the information to farmers using web-based precision   maps   derived   from   machine   learning   algorithms   based   on   ground   and   aerial   infrared   spectroscopy (hyperspectral/thermal).
