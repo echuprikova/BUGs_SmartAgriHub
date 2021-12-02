@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: abraham.mejia@eurac.edu
+phone: +39 0471 055 261
 address:
   street: Via Alessandro Volta, 13
   city: Bolzano
@@ -84,7 +84,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: January 2006
+  date_format: December 2006
   citation_style: apa
 projects:
   post_view: 2
