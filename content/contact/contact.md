@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Eurac  Research  is  a  private  research  organization with  headquarters  in  Bolzano.  Eurac  is  partner  of  the  NOI Technology Park, candidate to become a European Digital Innovation Hub. Eurac promotes   projects for  the  well-being  of  the  province.  Our  research  aims  to  foster  development  by effectively  using  new  technology. Eurac offers testing laboratories, ICT services, and science-oriented models.  
