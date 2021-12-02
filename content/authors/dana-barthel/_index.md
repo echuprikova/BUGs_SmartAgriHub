@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Ekaterina Chuprikova
+title: Dana Barthel
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Marie Sklodowska-Curie Fellow
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -14,25 +14,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-interests:
-- Geospatial data modeling and visualization 
-- Visual analytics 
-- Geostatistics and geospatial data mining  
-- Data stewardship 
-- Spatial Data Infrastructure 
+bio:
 
-education:
-  courses:
-  - course: PhD in Cartography
-    institution: Technical University of Munich
-    year: 2019
-  - course: MSc in Cartography
-    institution: Technical University of Munich, Technical University of Vienna, Technical University of Dresden
-    year: 2014
-  - course: BSc in Cartography
-    institution: St. Petersburg State University
-    year: 2010
+interests:
+- Detection of apple proliferation disease in Malus × domestica by near infrared reflectance analysis of leaves
+- Insects as vectors of Apple Proliferation phytoplasma
+- Near-infrared spectroscopy analysis
+
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,16 +29,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ekaterina.chuprikova@eurac.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/e_chuprikova
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=WVzHnMcAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/echuprikova/
+  link: 'mailto:dana.barthel@eurac.edu'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,3 +48,5 @@ highlight_name: false
 user_groups:
 - Researcher
 ---
+
+
