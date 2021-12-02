@@ -19,4 +19,4 @@ design:
 
 <br>
 
-BUGs (Building digital competencies for detecting and monitoring diseases in moUntain aGriculture fields) aim at a non-invasive method to monitor plant diseases and deliver the information to farmers using web-based precision   maps   derived   from   machine   learning   algorithms   based   on   ground   and   aerial   infrared   spectroscopy (hyperspectral/thermal).
+BUGs (Building digital competencies for detecting and monitoring diseases in moUntain aGriculture fields) aims at developing a non-invasive method to monitor plant diseases and deliver the information to farmers using web-based precision   maps   derived   from   machine   learning   algorithms   based   on   ground   and   aerial   infrared   spectroscopy (hyperspectral/thermal).
