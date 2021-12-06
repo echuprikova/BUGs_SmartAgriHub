@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  BUGs
+  BUGs 
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The project BUGs (Building digital competencies for detecting and monitoring diseases in moUntain aGriculture fields) aims at developing a non-invasive method to monitor plant diseases and deliver the information to farmers using web-based precision   maps   derived   from   machine   learning   algorithms   based   on   ground   and   aerial   infrared   spectroscopy (hyperspectral/thermal).
+The project BUGs (Building digital competencies for detecting and monitoring diseases in moUntain aGriculture fields) aims at developing a non-invasive method to monitor plant diseases and deliver the information to farmers using web-based precision   maps   derived   from   machine   learning   algorithms   based   on   ground   and   aerial   infrared   spectroscopy (hyperspectral/thermal). EURAC
